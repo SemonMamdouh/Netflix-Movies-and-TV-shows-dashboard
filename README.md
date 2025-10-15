@@ -76,5 +76,4 @@ Focuses on yearly and monthly content trends, production countries, and ratings 
 - **TV Shows** show a steady increase over time, indicating Netflix’s focus on series content.  
 
 
-## 📂 Repository Structure  
 
